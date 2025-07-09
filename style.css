@@ -1,0 +1,56 @@
+/* style.css — Fractional Biprime Factorization */
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f9f9f9;
+  color: #333;
+  max-width: 800px;
+  margin: 40px auto;
+  padding: 20px;
+  line-height: 1.6;
+}
+
+h1 {
+  text-align: center;
+  color: #222;
+}
+
+h2 {
+  text-align: center;
+  color: #444;
+  margin-top: 40px;
+}
+
+p {
+  font-size: 1.05em;
+  margin: 15px 0;
+}
+
+.links {
+  text-align: center;
+  margin-top: 30px;
+}
+
+.links a {
+  display: inline-block;
+  margin: 10px 20px;
+  padding: 10px 15px;
+  background-color: #007acc;
+  color: white;
+  text-decoration: none;
+  border-radius: 6px;
+  transition: background-color 0.3s ease;
+}
+
+.links a:hover {
+  background-color: #005fa3;
+}
+
+footer {
+  margin-top: 50px;
+  font-size: 0.9em;
+  text-align: center;
+  color: #777;
+  border-top: 1px solid #ccc;
+  padding-top: 20px;
+}
